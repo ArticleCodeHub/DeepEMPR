@@ -61,7 +61,7 @@ Code
 ------------------------------------------------------------------------------------
 Some operations in DeepEMPR.py 
 
--> Computing the HDMR constant, univariate, bivariate and trivariate components.\n
+-> Computing the HDMR constant, univariate, bivariate and trivariate components.
 -> Computing the EMPR constant, univariate, bivariate and trivariate components.
 -> Computing optimum support vectors.
 -> Creating a new channel using some EMPR components and adding it to the original image.
